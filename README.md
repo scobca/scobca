@@ -1,3 +1,8 @@
+<p align="left"> 
+  <img src=https://komarev.com/ghpvc/?username=scobca&color=C70039&label=PROFILE+VIEWS alt=scobca/> 
+</p>
+
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
