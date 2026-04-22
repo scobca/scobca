@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&letterSpacing=0.25rem&duration=300&pause=150&color=6D99A0&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=1500&height=350&lines=~%3E+booting+dev%40scobca+...;%5B+OK+%5D+Loading+Kotlin+modules;%5B+OK+%5D+Initializing+Spring+Boot+context;%5B+OK+%5D+Connecting+to+reactive+streams;%5B+OK+%5D+Starting+background+task%3A+overengineering.sh;+;+%3C---+Completed+---%3E;+;~%3E+system+logs+-v;%5B2077-04-22+20%3A31%3A04%5D+Hi%2C+I'm+scobca+%5C%5C+%3E~%3E;%5B2077-04-22+20%3A31%3A06%5D+unauthorized+presence+in+log+channel+;%5B+FAIL++%3A%3A+logbus%3A%2F%2Fread+access+denied+%5D;+;+%3C---+Completed+with+1+error+---%3E;+;~%3E+_)](https://git.io/typing-svg)
 
 
-### Hi! My name is scobca
-
+### Hi! My name is scobca ——> backend dev & devops enjoyer
 
 ```
 ~> system modules --show-stack
@@ -47,6 +46,7 @@
 
 #### Services ->
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?logo=spring&logoColor=white)](#)
 
 #### Messaging ->
 [![gRPC](https://img.shields.io/badge/gRPC-00ADD8?logo=grpc&logoColor=white)](#)
